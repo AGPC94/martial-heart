@@ -1,0 +1,1448 @@
+fileFormatVersion: 2
+guid: 98fa3a3372e91c741b613ce84b402c7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8559745191843296949
+    second: Kendoka_0
+  - first:
+      213: 2587083124411815114
+    second: Kendoka_1
+  - first:
+      213: 1513278882923287557
+    second: Kendoka_2
+  - first:
+      213: 8557949086440759358
+    second: Kendoka_3
+  - first:
+      213: 5874960023594776189
+    second: Kendoka_4
+  - first:
+      213: 1674858698085909256
+    second: Kendoka_5
+  - first:
+      213: 3246226970471870351
+    second: Kendoka_6
+  - first:
+      213: 6959528785014282549
+    second: Kendoka_7
+  - first:
+      213: -1230318368555501480
+    second: Kendoka_8
+  - first:
+      213: -2413226133652321640
+    second: Kendoka_9
+  - first:
+      213: 1489302499520974991
+    second: Kendoka_10
+  - first:
+      213: 6313286830738983784
+    second: Kendoka_11
+  - first:
+      213: 8869203417377960192
+    second: Kendoka_12
+  - first:
+      213: 2032745588046581578
+    second: Kendoka_13
+  - first:
+      213: 8814604208661106924
+    second: Kendoka_14
+  - first:
+      213: -3044093922405591944
+    second: Kendoka_15
+  - first:
+      213: 988493455932227443
+    second: Kendoka_16
+  - first:
+      213: 4437252673777616644
+    second: Kendoka_17
+  - first:
+      213: -806993252224775003
+    second: Kendoka_18
+  - first:
+      213: 6905290373663568318
+    second: Kendoka_19
+  - first:
+      213: 2338386777087471753
+    second: Kendoka_20
+  - first:
+      213: 6524591302251391143
+    second: Kendoka_21
+  - first:
+      213: -6433202265369644933
+    second: Kendoka_22
+  - first:
+      213: -1015419756496143735
+    second: Kendoka_23
+  - first:
+      213: -6383893375902318673
+    second: Kendoka_24
+  - first:
+      213: -8553498045635457163
+    second: Kendoka_25
+  - first:
+      213: -3619945960583503697
+    second: Kendoka_26
+  - first:
+      213: 9100657558009925450
+    second: Kendoka_27
+  - first:
+      213: 2826191938389790559
+    second: Kendoka_28
+  - first:
+      213: 4155876500504420065
+    second: Kendoka_29
+  - first:
+      213: 9121369852912852385
+    second: Kendoka_30
+  - first:
+      213: -4303783451407031560
+    second: Kendoka_31
+  - first:
+      213: -4738832830675441894
+    second: Kendoka_32
+  - first:
+      213: -1445434628161957122
+    second: Kendoka_33
+  - first:
+      213: -4743114426919844581
+    second: Kendoka_34
+  - first:
+      213: 6401062753406746861
+    second: Kendoka_35
+  - first:
+      213: 5779802998768090447
+    second: Kendoka_36
+  - first:
+      213: -4285003841609114770
+    second: Kendoka_37
+  - first:
+      213: 1503101722988354296
+    second: Kendoka_38
+  - first:
+      213: -7551581086125053288
+    second: Kendoka_39
+  - first:
+      213: -2270785778776469157
+    second: Kendoka_40
+  - first:
+      213: -2810455831755810781
+    second: Kendoka_41
+  - first:
+      213: -3071806654045250025
+    second: Kendoka_42
+  - first:
+      213: 5588072885186434002
+    second: Kendoka_43
+  - first:
+      213: 5153550155670094605
+    second: Kendoka_44
+  - first:
+      213: -2012509389491196588
+    second: Kendoka_45
+  - first:
+      213: -2362565229601873284
+    second: Kendoka_46
+  - first:
+      213: -5011636321313270759
+    second: Kendoka_47
+  - first:
+      213: -2067727414091761255
+    second: Kendoka_48
+  - first:
+      213: 4078634668875888140
+    second: Kendoka_49
+  - first:
+      213: 682072853332364254
+    second: Kendoka_50
+  - first:
+      213: 4092146771123532503
+    second: Kendoka_51
+  - first:
+      213: 6326780796175871920
+    second: Kendoka_52
+  - first:
+      213: 4934702088617224393
+    second: Kendoka_53
+  - first:
+      213: -4197241278262361316
+    second: Kendoka_54
+  - first:
+      213: -613370536123427706
+    second: Kendoka_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kendoka_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b67da786e25ac670800000000000000
+      internalID: 8559745191843296949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac459fa056a27e320800000000000000
+      internalID: 2587083124411815114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041eb6502f300510800000000000000
+      internalID: 1513278882923287557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e302e272a51f3c670800000000000000
+      internalID: 8557949086440759358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76bcfbb30d088150800000000000000
+      internalID: 5874960023594776189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8034264bc1b4e3710800000000000000
+      internalID: 1674858698085909256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fa44bfa3aec0d20800000000000000
+      internalID: 3246226970471870351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 900
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d1ea8e86359060800000000000000
+      internalID: 6959528785014282549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587c9956f70deee0800000000000000
+      internalID: -1230318368555501480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac6f40e9f728ed0800000000000000
+      internalID: -2413226133652321640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809c0f8bb01ba410800000000000000
+      internalID: 1489302499520974991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b495f5cec4d9750800000000000000
+      internalID: 6313286830738983784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017e7d548db51b70800000000000000
+      internalID: 8869203417377960192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f4246a753c53c10800000000000000
+      internalID: 2032745588046581578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce098e473d3c35a70800000000000000
+      internalID: 8814604208661106924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_15
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 750
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d614b4b431c5d0800000000000000
+      internalID: -3044093922405591944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f73a79f85d7bd00800000000000000
+      internalID: 988493455932227443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ca271cc9449d30800000000000000
+      internalID: 4437252673777616644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4109a9ebfcc4f0800000000000000
+      internalID: -806993252224775003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb13421520584df50800000000000000
+      internalID: 6905290373663568318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f4cb626e937020800000000000000
+      internalID: 2338386777087471753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82c4b78310c8a50800000000000000
+      internalID: 6524591302251391143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70776ccf9ca8b6a0800000000000000
+      internalID: -6433202265369644933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a32248c1188e1f0800000000000000
+      internalID: -1015419756496143735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7f554ccad767a0800000000000000
+      internalID: -6383893375902318673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f86ea88dedb4980800000000000000
+      internalID: -8553498045635457163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06f41045e53cdc0800000000000000
+      internalID: -3619945960583503697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fc7a7e4d70c4e70800000000000000
+      internalID: 9100657558009925450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fcbca1896a83720800000000000000
+      internalID: 2826191938389790559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee95fe88a3aca930800000000000000
+      internalID: 4155876500504420065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add3dbdd8d959e70800000000000000
+      internalID: 9121369852912852385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_31
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 450
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2edacd0c3e544c0800000000000000
+      internalID: -4303783451407031560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a1add5a84c3eb0800000000000000
+      internalID: -4738832830675441894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef29b5a2dd8c0fbe0800000000000000
+      internalID: -1445434628161957122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15896e0f821d2eb0800000000000000
+      internalID: -4743114426919844581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00bc1f8a425d850800000000000000
+      internalID: 6401062753406746861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3f45643cf53050800000000000000
+      internalID: 5779802998768090447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b54bf75bb9884c0800000000000000
+      internalID: -4285003841609114770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9ff3ad071cd410800000000000000
+      internalID: 1503101722988354296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_39
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 300
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a25fc1305633790800000000000000
+      internalID: -7551581086125053288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5115078d5c8c70e0800000000000000
+      internalID: -2270785778776469157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328154bbf414ff8d0800000000000000
+      internalID: -2810455831755810781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e93fe8f10ce55d0800000000000000
+      internalID: -3071806654045250025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d39784aea2dc8d40800000000000000
+      internalID: 5588072885186434002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0300e8df86158740800000000000000
+      internalID: 5153550155670094605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_45
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2d3c7f512214e0800000000000000
+      internalID: -2012509389491196588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7224eae07b763fd0800000000000000
+      internalID: -2362565229601873284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_47
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 150
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145dac8157137ab0800000000000000
+      internalID: -5011636321313270759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99939b64fd4fd43e0800000000000000
+      internalID: -2067727414091761255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b0fe2f983a9830800000000000000
+      internalID: 4078634668875888140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb00d575a5377900800000000000000
+      internalID: 682072853332364254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27495aec93ac830800000000000000
+      internalID: 4092146771123532503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf63d70d9d3dc750800000000000000
+      internalID: 6326780796175871920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8686887659b7440800000000000000
+      internalID: 4934702088617224393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13c09c9b4760c5c0800000000000000
+      internalID: -4197241278262361316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kendoka_55
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 200
+        height: 150
+      alignment: 9
+      pivot: {x: 0.4, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6841ca64fbedc77f0800000000000000
+      internalID: -613370536123427706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f796dfda60f7c645a4cbd39933a379e, type: 3}
+  m_Name: Bandit
+  m_EditorClassIdentifier: 
+  name: Bandit
+  description: 
+  animator: {fileID: 22100000, guid: 42a5093239a77af46ade23549812b878, type: 2}
+  skins:
+  - {fileID: 11400000, guid: 6f32b94ef6ae46e458393923e0b2bdf9, type: 2}
+  - {fileID: 11400000, guid: 8252cca22c04cdd4580d3b07e5454397, type: 2}
+  - {fileID: 11400000, guid: dcc098b7abd0d874b966e7e42d3b9db3, type: 2}
+  - {fileID: 11400000, guid: 62a116ffac1a8704aa3af91d600e2a4b, type: 2}
+  artwork: {fileID: -1897662275881480441, guid: addbb7ada2d510943bb2b78b112abf61,
+    type: 3}
+  portrait: {fileID: 811960651493979081, guid: 27086519dc9b27f4985b89e53c972983, type: 3}
+  atk: 1
+  def: 0
+  walkSpeed: 3.5
+  dashSpeed: 15
+  dashTime: 0.1
+  clashDistance: 2.65
+  clashStartSpeed: 10
+  clashBackDashSpeed: 20
+  clashBackDashTime: 0.2
+  pushTime: 0.2
+  pushForce: 20
+  wallDistance: 2
+  hitStun: 0.17
+  blockStun: 0.05
+  parryTime: 0.14
+  slash: LSlash
+  death: Death
+  clashEnter: ClashEnter
+  clashStay: ClashStay
+  unsheath: Unsheath
+  sheath: Sheath
+  sheathEnd: SheathEnd
+  parry: Parry
+  swoosh: Swoosh

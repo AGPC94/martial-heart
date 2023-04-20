@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468938467c4e56947926970ae2cb14c7, type: 3}
+  m_Name: Castle
+  m_EditorClassIdentifier: 
+  name: Uwajima Castle
+  portrait: {fileID: -6914534816284615676, guid: 99be7c67967726b4b889c478e0acce53,
+    type: 3}
+  preview: {fileID: 5652514795977546035, guid: afd9d8fe3f8df1d46a808a7e1b0e678d, type: 3}
+  background: {fileID: 5652514795977546035, guid: afd9d8fe3f8df1d46a808a7e1b0e678d,
+    type: 3}
+  music: Castle
+  isUnlock: 0

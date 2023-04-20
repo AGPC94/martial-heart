@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f796dfda60f7c645a4cbd39933a379e, type: 3}
+  m_Name: Ronin
+  m_EditorClassIdentifier: 
+  name: Ronin
+  description: 
+  animator: {fileID: 22100000, guid: 3492426b8ab63754e9dcf0798d85a24b, type: 2}
+  skins:
+  - {fileID: 11400000, guid: 076a9c15ffe257b4da81beebb8425d4b, type: 2}
+  - {fileID: 11400000, guid: 2ec0e0531041dfb4c9ef7537a3540b11, type: 2}
+  - {fileID: 11400000, guid: fe79d5a31232e9846b0005e0e5034dca, type: 2}
+  - {fileID: 11400000, guid: 9f32497306d5fa045b6594d83d67729e, type: 2}
+  artwork: {fileID: 1917789662028094354, guid: b63af5ac2ad8670458499b3fe4c99bb0, type: 3}
+  portrait: {fileID: -5178966210957354335, guid: 27086519dc9b27f4985b89e53c972983,
+    type: 3}
+  atk: 1
+  def: 0
+  walkSpeed: 3.5
+  dashSpeed: 15
+  dashTime: 0.1
+  clashDistance: 2.65
+  clashStartSpeed: 10
+  clashBackDashSpeed: 20
+  clashBackDashTime: 0.2
+  pushTime: 0.2
+  pushForce: 20
+  wallDistance: 2
+  hitStun: 0.17
+  blockStun: 0.05
+  parryTime: 0.14
+  slash: LSlash
+  death: Death
+  clashEnter: ClashEnter
+  clashStay: ClashStay
+  unsheath: Unsheath
+  sheath: Sheath
+  sheathEnd: SheathEnd
+  parry: Parry
+  swoosh: Swoosh

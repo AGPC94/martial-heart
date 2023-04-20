@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3988806451744956265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3988806451744956263}
+  - component: {fileID: 3988806451744956262}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3988806451744956263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3988806451744956265}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3988806451744956262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3988806451744956265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad04df16e120c44c97c3b0c6ee3b756, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: ClashEnter
+    clip: {fileID: 8300000, guid: e69565c2b60cf584ba7ef7203e2f34f1, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ClashStay
+    clip: {fileID: 8300000, guid: 689115b0e6fc7e74fa661a9c433bb6ad, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+  - name: Death
+    clip: {fileID: 8300000, guid: 44bb3284d7af77b4f803bc3d85aca53d, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: LSlash
+    clip: {fileID: 8300000, guid: 070737c95cd48d04fa79f8cafb8e5ce0, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: MSlash
+    clip: {fileID: 8300000, guid: 5d72e6b7713e17a4db042d9f43eb6c63, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: HSlash
+    clip: {fileID: 8300000, guid: 79de6726929ddeb44b8f6249d1d6f89e, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: SSlash
+    clip: {fileID: 8300000, guid: 995c831ec4467884a8133a7b845c0b92, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Parry
+    clip: {fileID: 8300000, guid: 9bb8b446299bd284a9311225a9f12a09, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Push
+    clip: {fileID: 8300000, guid: 72fb85f0f9c1427488c67cbc12a89431, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Death
+    clip: {fileID: 8300000, guid: 44bb3284d7af77b4f803bc3d85aca53d, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Sheath
+    clip: {fileID: 8300000, guid: f3c46bb64cc39214a9ab98b8759c3d2b, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: SheathEnd
+    clip: {fileID: 8300000, guid: c81d7a6cc9788084b8e335f1b03dc92e, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Unsheath
+    clip: {fileID: 8300000, guid: 5646f08004e76a241bf62d13781ac1cd, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Swoosh
+    clip: {fileID: 8300000, guid: 6d4e281ce3f4158439ccd18fbbbbf956, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Stomp
+    clip: {fileID: 8300000, guid: a87c149fc32c20246bbb1cafb49c0698, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Back
+    clip: {fileID: 8300000, guid: 814aec7bdd2e5d349a3357e5aa798ff1, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Cancel
+    clip: {fileID: 8300000, guid: 124dc7421b855474da227feacbe8752f, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Exit
+    clip: {fileID: 8300000, guid: 6db414a1628464748aa80352e300e56b, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: GameStart
+    clip: {fileID: 8300000, guid: 8c04d7c85e53e444b9ecba3ee17dee8c, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Move
+    clip: {fileID: 8300000, guid: edc416080936ab84cae2bbbd4b55adf0, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Submit
+    clip: {fileID: 8300000, guid: 758491254b0154544a9b5dc445807780, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
